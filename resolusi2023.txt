@@ -1,5 +1,5 @@
 RESOLUSI 2023
 - Mengenali diri sendiri lebih baik lagi
 - Konsisten dalam belajar programming
-- Menguasai HTML,CSS,JS
 - Menguasai react.js dan laravel
+- Dapat menyelesaikan project dengan baik dan menghasilkan uang dari coding
